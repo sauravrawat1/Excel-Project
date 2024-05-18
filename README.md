@@ -4,7 +4,7 @@ Excel Projects
 This repository contains my work in Microsoft Excel. 
 
 1. [Dynamic heat map using excel to analyze accidents](https://github.com/sauravrawat1/Excel-Project/tree/main/Dynamic_Heat_Map_Excel)
-2. [Sales dashboard built using excel](https://github.com/konchada2/Excel-Projects/tree/master/Excel%20Dashboard) 
+2. [Sales dashboard built using excel](https://github.com/sauravrawat1/Excel-Project/tree/main/Excel%20Dashboard) 
 
 Below are the instructions for using dynamic heat map in excel.
 
